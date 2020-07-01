@@ -1,9 +1,7 @@
 channels:
-- currentCSV: infinispan-operator.v2.0.0
+- currentCSV: infinispan-operator.v9.9.9
   name: dev-preview
-- currentCSV: infinispan-operator.v1.1.2
+- currentCSV: infinispan-operator.v9.9.8
   name: stable
-- currentCSV: infinispan-operator.v1.1.2
-  name: 1.1.x
-defaultChannel: 1.1.x
+defaultChannel: dev-preview
 packageName: infinispan
