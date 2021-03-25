@@ -10,4 +10,4 @@ Full documentation is generated via [mkdoc](https://www.mkdocs.org/) and is loca
 
 ## Reporting Bugs
 
-IUse the issue tracker in this repository to report bugs.
+Use the issue tracker in this repository to report bugs.
